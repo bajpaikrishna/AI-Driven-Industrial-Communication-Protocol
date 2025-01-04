@@ -1,0 +1,43 @@
+# Proprietary License Agreement for AICP (AI-Driven Industrial Communication Protocol)
+
+## Copyright year 2024 by Krishna Bajpai
+## 1. Grant of License
+Subject to the terms and conditions of this Agreement, Krishna Bajpai ("Licensor") hereby grants to you ("Licensee") a non-exclusive, non-transferable, limited license to use, copy, modify, and distribute the software, solely for internal purposes, within the scope of the defined use cases as specified by the Licensor.
+
+## 2. Restrictions
+The Licensee shall not:
+- Distribute, sell, lease, rent, or sublicense the software to any third party.
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the software.
+- Use the software to develop any competing products or services.
+- Modify the software beyond the defined APIs or documentation provided by the Licensor.
+
+## 3. Ownership
+All rights, title, and interest in and to the software, including any modifications or improvements, remain solely with the Licensor. The Licensee does not acquire any ownership rights in the software or any intellectual property rights related to the software.
+
+## 4. Confidentiality
+The Licensee agrees to maintain the confidentiality of the software and all proprietary information provided by the Licensor. The Licensee shall take all necessary steps to protect the proprietary nature of the software and prevent unauthorized use or disclosure.
+
+## 5. Support and Updates
+The Licensor may, at its discretion, provide support, bug fixes, or updates to the software. Such updates or fixes may be governed by this license or a separate agreement, depending on the terms provided by the Licensor.
+
+## 6. Warranty Disclaimer
+The software is provided "as-is" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The Licensor does not guarantee that the software will be error-free or that it will meet the Licensee’s requirements.
+
+## 7. Indemnity
+The Licensee agrees to indemnify and hold harmless the Licensor, its employees, officers, agents, and affiliates from any and all claims, damages, losses, liabilities, and expenses (including attorneys' fees) arising out of or in connection with the use or misuse of the software.
+
+## 8. Termination
+This license shall remain in effect until terminated. The Licensor may terminate this license at any time if the Licensee breaches any term or condition of this Agreement. Upon termination, the Licensee must cease using the software and destroy any copies in its possession.
+
+## 9. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law principles.
+
+## 10. Entire Agreement
+This Agreement constitutes the entire agreement between the parties regarding the software and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between the parties.
+
+---
+
+By using or accessing the software, the Licensee agrees to the terms and conditions outlined in this Proprietary License Agreement.
+
+**Licensor**: Krishna Bajpai  
+**Licensee**: bajpaikrishna715@gmail.com
