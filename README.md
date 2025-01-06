@@ -43,6 +43,27 @@ The AICP packet includes the following fields:
 - **Checksum**: Used for error detection.
 - **Encryption Info**: Includes encryption metadata for secure transmission.
 
+## Supported Tensor Types
+
+| Tensor Type | Size (Bytes) | Use Case |
+|-------------|--------------|----------|
+| FLOAT32     | 4            | General-purpose, deep learning models |
+| INT32       | 4            | Integer-based operations, indexing, categorical data |
+| FLOAT64     | 8            | High-precision computations, scientific simulations |
+| INT64       | 8            | Large-scale integer operations, time-series data |
+| BOOL        | 1            | Flags, binary decisions |
+| COMPLEX64   | 8            | Signal processing, neural networks with complex numbers |
+| UINT8       | 1            | Image data, binary data processing |
+| UINT16      | 2            | Image data, pixel intensities |
+| UINT32      | 4            | Color data, indices |
+| UINT64      | 8            | Large-scale integers, network tasks |
+| BFLOAT16    | 2            | Memory-efficient ML models, especially on TPUs/GPU |
+| HALF        | 2            | Memory-efficient deep learning model training/inference |
+| STRING      | Variable     | Text data, NLP tasks |
+| FLOAT16     | 2            | Memory optimization in deep learning |
+| CUSTOM      | Variable     | Custom-defined data types |
+| UNKNOWN     | 0            | Placeholder for unknown data types |
+
 ## Example of API
 
 The following functions outline the high-level API that can be used to interact with the AICP protocol:
